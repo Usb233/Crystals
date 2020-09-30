@@ -12,6 +12,11 @@
 https://crystals.stack42.xyz/
 
 
+## Screenshot
+![Screenshot1](/Screenshot/Screenshot1.png)
+![Screenshot2](/Screenshot/Screenshot2.png)
+
+
 ## About Crystals
 
 Crystals is a file storage system based on Laravel.
